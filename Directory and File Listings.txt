@@ -1,0 +1,6 @@
+dist 		- For storing the setup files that were created using cx_Freeze
+LICENSE 	- For the MIT license
+nita_di_news	- The main python program for the project
+nita_icon	- The icon of the application(not used).
+README		- Project description
+setup 		- The setup file used by cx_Freeze for creating .exe or .msi files.
